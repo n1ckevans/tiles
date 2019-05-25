@@ -54,16 +54,22 @@ html {
 #container {
   width:600px;
   height:600px;
-  margin: 0 auto;
+  margin-left: 350px;
+  margin-top: 10px;
  
 }
 #container div {
   display: inline-block;
   background-color: white;
+  margin-left: 1px;
+  margin-top: -1px;
+  margin-bottom: -1px;
 }
 
 #button {
   display: inline-block;
-  margin: 20px auto; 
+  margin-left: 525px;
+  margin-top: 20px;
+  margin-bottom: 30px;
 }
 
